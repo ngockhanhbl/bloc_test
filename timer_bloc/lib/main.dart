@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:timer_bloc/timer_page.dart';
+import 'package:timer_bloc/ui/timer_page.dart';
 
 void main() {
   runApp(const MyApp());
